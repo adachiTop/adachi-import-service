@@ -1,0 +1,4 @@
+# Initializers
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+   com.base.upload.autoconfigure.UploadAutoConfiguration
+
